@@ -4,7 +4,7 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: Times New Roman, sans-serif;
 }
 
 .container {
@@ -81,6 +81,7 @@ canvas {
   border: 1px solid #ccc;
   width: 600px;
   height: 600px;
+  background: #4c61af;
   display: block;
 }
 
