@@ -51,6 +51,7 @@ html, body {
   width: 600px;
   height: 450px;
   object-fit: cover;
+  margin-top: 10px;
 }
 
 #videoTime {
