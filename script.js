@@ -1,3 +1,4 @@
+
 /**
  * Pose Detection Application
  * Using TensorFlow.js and Teachable Machine
@@ -7,7 +8,8 @@
 // Model URL from Teachable Machine
 //**************************************************
 //* as before, paste your lnk below
-let URL = "https://teachablemachine.withgoogle.com/models/Ya3h0ugsc/";
+let URL = "https://teachablemachine.withgoogle.com/models/Ya3h0ugsc/
+";
 
 
 
